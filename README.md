@@ -4,7 +4,7 @@
 
 Aula utilizando bootstrap para construir uma página web simples.
 
-[Resultado](https://joana-silvas.github.io/aula_bootstrap/)
+[Resultado](https://aula-bootstrap.000webhostapp.com/#quemsomos)
 
 
 
